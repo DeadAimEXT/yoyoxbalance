@@ -25,7 +25,13 @@ balance y erradicacion de la corrupcion total.
 
 
 <h1> FAQ </h1>
-<h3> P: Podes hacer el script facil de usar para todos? </h3>
+
+<h3>P: Donde esta la lista de los jugadores? </h3>
+R: Es privada porque algunas personas no quieren compartir su MMR, este script incluye una pequeña funcion
+que crear jugadores con mmr random si la quieren probar. No todos los jugadores compartieron su MMR exacto solo
+su medalla, a ellos se les asigno el valor numerico correspondiente al mmr de esa medalla promedio.
+
+<h3>P: Podes hacer el script facil de usar para todos? </h3>
 R: No quiero, pero el codigo es libre de adaptar como quieran
 
 <h3>P: Tu codigo esta feo/puedo hacer algo mejor/se puede optimizar mas</h3>
